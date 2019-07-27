@@ -1,1 +1,1 @@
-# Programming_Collective_Intelligence
+# Programming Collective Intelligence
